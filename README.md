@@ -1,4 +1,4 @@
-# Medical_data_history
+
 # Medical Data History – SQL Database
 
 ## Objective
